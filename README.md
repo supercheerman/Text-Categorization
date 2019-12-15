@@ -1,0 +1,2 @@
+# Text-Categorization
+在百度al studio平台上利用paddlepaddle库，调用cnn网络实现文本分类来将热点分类
